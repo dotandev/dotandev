@@ -7,15 +7,15 @@
 ###   **What's my current role in tech?** </h2>
        { Software Engineer | ML } 
 
-###   **Student, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2>
-#### Follow JESUS via;
+###   **Intern, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2>
+<!-- #### Follow JESUS via;
 <a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
 <a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="60" /></a>
 <a href="https://mainstack.me/jesusoflagos/"><img src="mainstack.svg" width="60" /></a>
 
 
 
-#### Connect with JESUS via; 
+<!-- #### Connect with JESUS via; 
 <a href="https://www.linkedin.com/in/jesusoflagos/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/forjesusoflagos"><img src="images/twitter.png" width="60" /></a>
 <a href="https://facebook.com/akanlejesus"><img src="facebook.jpg" width="75" /></a>
@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-#### About
+<!-- #### About
 Here are some basic things to know about Jesus👳‍♂;
 
 - 🔭 I’m currently working on my Content Management skills,
@@ -32,13 +32,13 @@ Here are some basic things to know about Jesus👳‍♂;
 - 📫 How to reach me: Email: jesuswrites20043@gmail.com, Phone: +234 913 216 4480,
 - ⚡ Fun fact: I dislike Gaming.
 
-#### My Core Languages
+<!-- #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
 <code><img src="images/sass.jpg" width="60" title="SASS" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
-<code><img src="images/dart.png" width="65" title="Dart" /></code>
+<code><img src="images/dart.png" width="65" title="Dart" /></code> -->
 
 
 #### Top Languages
@@ -51,21 +51,21 @@ Here are some basic things to know about Jesus👳‍♂;
 
 
 
-#### Frameworks/Libraries I Use
-<code><img src="images/B.png" width="70" title="Bootstrap" /></code>  
-<code><img src="images/json.png" width="70" title="JSON" /></code>
-<code><img src="images/express.png" width="65" title="Express" /></code>
-<code><img src="images/flutter.png" width="65" title="Flutter" /></code>
+<!-- #### Frameworks/Libraries I Use
+<!-- <code><img src="images/B.png" width="70" title="Bootstrap" /></code>  
+<!-- <code><img src="images/json.png" width="70" title="JSON" /></code>
+<!-- <code><img src="images/express.png" width="65" title="Express" /></code>
+<!-- <code><img src="images/flutter.png" width="65" title="Flutter" /></code>
 
-#### Tools I Use
-<code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
-<code><img src="images/github.jpg" width="60" title="GitHub" /></code>
-<code><img src="images/git.jpg" width="60" title="Git" /></code>
-<code><img src="images/android-studio.png" width="60" title="Android Studio" /></code>
+<!-- #### Tools I Use
+<!-- <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
+<!-- <code><img src="images/github.jpg" width="60" title="GitHub" /></code>
+<!-- <code><img src="images/git.jpg" width="60" title="Git" /></code>
+<!-- <code><img src="images/android-studio.png" width="60" title="Android Studio" /></code>
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
-<code><img src="images/command.png" width="70" title="Commandprompt" /></code>
-<code><img src="images/R.png" width="50" title="NodeJS" /></code>
-<code><img src="Mongo PNG.jpeg" width="150" title="MongoDB" /></code>
+<!-- <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
+<!-- <code><img src="images/R.png" width="50" title="NodeJS" /></code>
+<!-- <code><img src="Mongo PNG.jpeg" width="150" title="MongoDB" /></code>-->
 
              
              
