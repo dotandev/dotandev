@@ -47,7 +47,7 @@ Here are some basic things to know about Jesus👳‍♂;
 
 #### GitHub Stats
 
-[![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=JesusOfLagos&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=dotandev&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
