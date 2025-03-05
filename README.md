@@ -7,7 +7,7 @@
 ###   **What's my current role in tech?** </h2>
        { Software Engineer | ML } 
 
-###   **Intern, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2>
+<!--###   **Intern, @<a href="https://github.com/Nithub-Unilag/">NITHUB</a>.** </h2> -->
 <!-- #### Follow JESUS via;
 <a href="https://github.com/JesusOfLagos"><img src="images/github.png" width="60" /></a>
 <a href="https://www.instagram.com/akanlejesus/"><img src="images/ig.png" width="60" /></a>
@@ -41,13 +41,13 @@ Here are some basic things to know about Jesus👳‍♂;
 <code><img src="images/dart.png" width="65" title="Dart" /></code> -->
 
 
-#### Languages Set
+<!--#### Languages Set
 
-<a href="https://github.com/dotandev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotandev&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dotandev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotandev&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-#### GitHub Stats
+<!--#### GitHub Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=dotandev&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=dotandev&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
 
@@ -69,7 +69,7 @@ Here are some basic things to know about Jesus👳‍♂;
 
              
              
-       
+<!--       
 #### Lifestyle
-![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
+![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)  -->
 
