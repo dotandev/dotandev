@@ -43,7 +43,7 @@ Here are some basic things to know about Jesus👳‍♂;
 
 #### Languages Set
 
-<a href="https://github.com/dotandev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotandev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%12%Languages" alt="Top Languages" /></a> 
+<a href="https://github.com/dotandev" align="left"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dotandev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%12%Languages" ](https://github-readme-stats.vercel.app/api/top-langs/?username=dotandev&langs_count=12&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)alt="Top Languages" /></a> 
 
 #### GitHub Stats
 
