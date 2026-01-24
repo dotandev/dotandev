@@ -47,7 +47,7 @@ Here are some basic things to know about Jesus👳‍♂;
 
 #### GitHub Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=dotandev&show_icons=true&theme=nightowl&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) 
+[![My github stats](https://readme-gamma-sepia.vercel.app/api?username=dotandev&show_icons=true&theme=nightowl&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
